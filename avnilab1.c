@@ -3,7 +3,7 @@
 #include<stdlib.h>
 int main()
 {
-int choice,a[100],n=0,t,k,l,i,j;
+int choice,a[100],n=0,t,k,l,i,j,sum;
 while(1)
       {
       printf("\n1.Insert a new element \n2.Insert element in between\n3.Delete at index location=1 and 2\n4.Sort the elements in the decreasing order.\n5.Display\n6.Exit\n Enter your choice\n");
