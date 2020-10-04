@@ -64,7 +64,7 @@ while(1)
 			      }
 			    }
 			  }
-			  else printf("\nError\n");
+			  else printf("These are not valid choices");
 			 break;
 		 
 			 else
