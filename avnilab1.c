@@ -66,8 +66,7 @@ while(1)
 			  }
 			  else printf("\nError\n");
 			 break;
-		  case 5:if(n==0)
-				printf("\nNo Elements\n");
+		 
 			 else
 			 {
 			       for(j=0;j<n;j++)
